@@ -1,0 +1,92 @@
+.main_form
+{
+    background-image:url('2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Nav_index
+{
+    background: linear-gradient(45deg, pink, red);
+    -webkit-background-clip: text;
+    color: transparent; 
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 40%;
+}
+
+.Nav h1
+{
+    font-size: 15px
+}
+.navi_1
+{
+    margin-left: 40%;
+}
+
+.Register_form
+{
+    width: 30vw;
+    padding: 30px;
+    margin-left: 50%;
+    display: none;
+    margin-top: -5%;
+    border-radius: 10PX;
+    background: linear-gradient(to bottom, #2980b9,#84a1b5);
+    position: fixed; 
+    
+}
+.body{
+        width: 100%;
+    height: 100vh;
+    background-color: rgb(39, 97, 97); 
+}
+.login-text {
+    font-family: 'Montserrat', sans-serif; /* Recommended font */
+    font-size: 18px; /* Adjust font size as needed */
+    color: black; /* Black font color */
+    background: linear-gradient(to right, #00FF00, #00FF00, #000000, #00FF00, #00FF00); /* Mix of black and green */
+    background-clip: text; /* Clip background to text */
+    -webkit-background-clip: text; /* For webkit browsers */
+    display: inline-block; /* Maintain inline display */
+}
+
+.Login_form
+{
+    width: 30vw;
+    padding: 20px;
+    margin-left: 50%;
+    margin-top: -5%;
+    background: linear-gradient(to bottom, #2980b9,#84a1b5);
+    border-radius: 10PX;
+    position: fixed; 
+}
+
+.mb-3
+{
+    width:100%;
+    padding: 10px;
+    border-radius: 20px;
+}
+label
+{
+    font-size: 15px;
+}
+.welcome-container {
+    margin-top: -5%;
+    text-align: center;
+    padding: 100px 0; /* Add vertical spacing for the content */
+
+}
+
+.welcome-heading {
+    font-size: 28px;
+    color: #fff;
+}
+
+.welcome-quote {
+    font-size: 20px;
+    color: #ccc;
+    margin-top: 20px; /* Add some spacing between the heading and quote */
+}
+
+
